@@ -7,5 +7,6 @@ int main(void)
 	printf("1+1=2\n");
 	printf("Hello, tomorrow!\n");
 	printf("Hello, Github!\n");
+	printf("It seems OK!\n");
 	return 0;
 }
