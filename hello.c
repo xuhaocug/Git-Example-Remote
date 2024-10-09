@@ -9,5 +9,6 @@ int main(void)
 	printf("Hello, Github!\n");
 	printf("It seems OK!\n");
 	printf("Test for gfw!\n");
+	printf("Test for tun!\n");
 	return 0;
 }
