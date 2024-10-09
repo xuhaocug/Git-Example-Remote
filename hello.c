@@ -10,5 +10,6 @@ int main(void)
 	printf("It seems OK!\n");
 	printf("Test for gfw!\n");
 	printf("Test for tun!\n");
+	printf("Test for not tun!\n");
 	return 0;
 }
