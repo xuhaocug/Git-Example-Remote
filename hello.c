@@ -8,5 +8,6 @@ int main(void)
 	printf("Hello, tomorrow!\n");
 	printf("Hello, Github!\n");
 	printf("It seems OK!\n");
+	printf("Test for gfw!\n");
 	return 0;
 }
